@@ -1,0 +1,3 @@
+This project employs big data technologies, including Hadoop, Hive, Spark, and Zeppelin, to analyze major crimes in Toronto from 2014 onward. 
+Utilizing the authoritative Major Crime Indicator dataset, we implemented a logical model, crime_view, for efficient analysis. Temporal insights highlight dynamic crime trends, while geographic analysis identifies the top 5 regions with both high andlow crime numbers. 
+Pattern analysis reveals assault as the predominant crime category and provides insights into crime distribution across different premises. This study introduces practical business applications regarding urban safety in Toronto.
